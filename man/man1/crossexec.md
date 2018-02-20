@@ -64,7 +64,6 @@ specified as `-`. The fields are:
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030242/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 1994-2012 AT&T Intellectual Property

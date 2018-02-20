@@ -37,7 +37,6 @@ preceding command.
 
 `author`
 : David Korn
-    &lt;[dgkorn@gmail.com](https://web.archive.org/web/20141128030249/mailto:dgkorn@gmail.com)&gt;
 
 `copyright`
 : Copyright © 1982-2010 AT&T Intellectual Property

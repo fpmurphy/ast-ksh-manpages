@@ -22,7 +22,6 @@ have read/write/seek access to `file`.
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030241/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 1986-2010 AT&T Intellectual Property

@@ -138,7 +138,6 @@ ignored.
 
 `author`
 : Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20151102030746/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `copyright`
 : Copyright © 1996-2010 AT&T Intellectual Property

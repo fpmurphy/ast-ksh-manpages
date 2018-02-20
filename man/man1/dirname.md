@@ -58,11 +58,9 @@ be this string unless this string is empty. If empty the output will be
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030242/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `author`
 :   David Korn
-    &lt;[dgkorn@gmail.com](https://web.archive.org/web/20141128030242/mailto:dgkorn@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 1992-2012 AT&T Intellectual Property

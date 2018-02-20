@@ -202,7 +202,6 @@ by the default access files in this order:
 
 `author`
 : Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20151102030709/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `copyright`
 : Copyright © 1996-2010 AT&T Intellectual Property

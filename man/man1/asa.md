@@ -56,7 +56,6 @@ offset.
 
 `author`
 :   David Korn
-    &lt;[dgkorn@gmail.com](https://web.archive.org/web/20141128030238/mailto:dgkorn@gmail.com)&gt;
 
 `license`
 :   [http://www.research.att.com/sw/tools/reuse](https://web.archive.org/web/20141128030238/http://www.research.att.com/sw/tools/reuse)

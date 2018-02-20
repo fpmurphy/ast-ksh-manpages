@@ -368,15 +368,12 @@ input, at which point the input is renamed.
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20150717163021/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `author`
 :   Phong Vo
-    &lt;[kpv@research.att.com](https://web.archive.org/web/20150717163021/mailto:kpv@research.att.com)&gt;
 
 `author`
 :   Doug McIlroy
-    &lt;[doug@research.bell-labs.com](https://web.archive.org/web/20150717163021/mailto:doug@research.bell-labs.com)&gt;
 
 `copyright`
 :   Copyright © 1996-2012 AT&T Intellectual Property

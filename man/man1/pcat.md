@@ -38,7 +38,6 @@ pack(1), unpack(1), cat(1), zcat(1), gzcat(1)
 
 `author`
 :   David Korn
-    &lt;[dgkorn@gmail.com](https://web.archive.org/web/20141128030248/mailto:dgkorn@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 1993-2012 AT&T Intellectual Property

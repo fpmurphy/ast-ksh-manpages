@@ -86,7 +86,6 @@ source tree are operated on. Exactly one of `--generate`,
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20150527180649/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 2000-2012 AT&T Intellectual Property

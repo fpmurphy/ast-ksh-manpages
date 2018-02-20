@@ -27,7 +27,6 @@ operands are not modified; `command` is run on copies in `/tmp`.
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030243/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 1994-2012 AT&T Intellectual Property

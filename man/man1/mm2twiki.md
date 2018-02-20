@@ -31,7 +31,6 @@ search list. The default `twiki` markup style is \[`op`\]`data`
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030247/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 1996-2012 AT&T Intellectual Property

@@ -444,7 +444,6 @@ The default value is `delta,huffgroup`.\
         [``(author)]()
         : \
             Glenn Fowler
-            &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20150717104659/mailto:glenn.s.fowler@gmail.com)&gt;
 
     [`qp`]()
     : quoted printable encoding.
@@ -456,7 +455,6 @@ The default value is `delta,huffgroup`.\
         [``(author)]()
         : \
             Glenn Fowler
-            &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20150717104659/mailto:glenn.s.fowler@gmail.com)&gt;
 
     [`rot13`]()
     : \
@@ -469,7 +467,6 @@ The default value is `delta,huffgroup`.\
         [``(author)]()
         : \
             Glenn Fowler
-            &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20150717104659/mailto:glenn.s.fowler@gmail.com)&gt;
 
     [`iconv`]()
     : \
@@ -546,7 +543,6 @@ The default value is `delta,huffgroup`.\
         [``(author)]()
         : \
             Glenn Fowler
-            &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20150717104659/mailto:glenn.s.fowler@gmail.com)&gt;
 
     [`aes`]()
     : AES (FIPS-197 rijndael) encryption. The first option is the
@@ -800,7 +796,6 @@ The default value is `delta,huffgroup`.\
             [``(author)]()
             : \
                 Steve Reid
-                &lt;[steve@edmweb.com](https://web.archive.org/web/20150717104659/mailto:steve@edmweb.com)&gt;
 
         [`sha256|sha-256|SHA256|SHA-256`]()
         : \
@@ -873,7 +868,6 @@ The default value is `delta,huffgroup`.\
         [``(author)]()
         : \
             Glenn Fowler
-            &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20150717104659/mailto:glenn.s.fowler@gmail.com)&gt;
 
     [`zip`]()
     : zip compression. The first parameter is the PKZIP
@@ -951,11 +945,9 @@ The default value is `delta,huffgroup`.\
 
 `author`
 :   Phong Vo
-    &lt;[kpv@research.att.com](https://web.archive.org/web/20150717104659/mailto:kpv@research.att.com)&gt;
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20150717104659/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 2003-2012 AT&T Intellectual Property

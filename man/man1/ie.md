@@ -72,7 +72,6 @@ dll search.
 
 `author`
 :   David Korn
-    &lt;[dgkorn@gmail.com](https://web.archive.org/web/20150527152745/mailto:dgkorn@gmail.com)&gt;
 
 `author`
 :   Pat Sullivan

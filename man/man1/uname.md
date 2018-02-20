@@ -91,11 +91,9 @@ Selected information is printed in the same order as the options below.
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20150527154241/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `author`
 :   David Korn
-    &lt;[dgkorn@gmail.com](https://web.archive.org/web/20150527154241/mailto:dgkorn@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 1992-2012 AT&T Intellectual Property

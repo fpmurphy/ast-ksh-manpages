@@ -27,7 +27,6 @@ then `y` is used.
 
 `author`
 :   David Korn
-    &lt;[dgkorn@gmail.com](https://web.archive.org/web/20141128030254/mailto:dgkorn@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 2007-2012 AT&T Intellectual Property

@@ -115,7 +115,6 @@ are ignored.
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20150717115940/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 1999-2012 AT&T Intellectual Property

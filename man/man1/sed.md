@@ -73,11 +73,9 @@ script operand string or a combination of the option-arguments from the
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20150817032522/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `author`
 :   Doug McIlroy
-    &lt;[doug@research.bell-labs.com](https://web.archive.org/web/20150817032522/mailto:doug@research.bell-labs.com)&gt;
 
 `copyright`
 :   Copyright © 1995-2012 AT&T Intellectual Property

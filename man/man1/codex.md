@@ -121,7 +121,6 @@ The supported methods are:
     [``(author)]()
     : \
         Glenn Fowler
-        &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030240/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `qp`
 : quoted printable encoding.
@@ -133,7 +132,6 @@ The supported methods are:
     [``(author)]()
     : \
         Glenn Fowler
-        &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030240/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `rot13`
 :   rot13 self-inverting encoding.
@@ -145,7 +143,6 @@ The supported methods are:
     [``(author)]()
     : \
         Glenn Fowler
-        &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030240/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `iconv`
 :   iconv character codeset conversion. One or two character codeset
@@ -221,7 +218,6 @@ The supported methods are:
     [``(author)]()
     : \
         Glenn Fowler
-        &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030240/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `aes`
 : AES (FIPS-197 rijndael) encryption. The first option is the block
@@ -462,7 +458,6 @@ The supported methods are:
         [``(author)]()
         : \
             Steve Reid
-            &lt;[steve@edmweb.com](https://web.archive.org/web/20141128030240/mailto:steve@edmweb.com)&gt;
 
     [`sha256|sha-256|SHA256|SHA-256`]()
     : \
@@ -533,7 +528,6 @@ The supported methods are:
     [``(author)]()
     : \
         Glenn Fowler
-        &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030240/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `zip`
 : zip compression. The first parameter is the PKZIP
@@ -613,15 +607,12 @@ The supported methods are:
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030240/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `author`
 :   David Korn
-    &lt;[dgkorn@gmail.com](https://web.archive.org/web/20141128030240/mailto:dgkorn@gmail.com)&gt;
 
 `author`
 :   Phong Vo
-    &lt;[kpv@research.att.com](https://web.archive.org/web/20141128030240/mailto:kpv@research.att.com)&gt;
 
 `copyright`
 :   Copyright © 2003-2012 AT&T Intellectual Property

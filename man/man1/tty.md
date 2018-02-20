@@ -44,11 +44,9 @@ input onto standard output. If the standard input is not a terminal,
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030252/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `author`
 :   David Korn
-    &lt;[dgkorn@gmail.com](https://web.archive.org/web/20141128030252/mailto:dgkorn@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 1992-2012 AT&T Intellectual Property

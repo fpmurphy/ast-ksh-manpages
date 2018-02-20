@@ -68,6 +68,5 @@ lang                : en_UK
 
     IMPLEMENTATION
       version     sudz (AT&T; Research) 2007-02-14
-      author      Glenn Fowler <glenn.s.fowler@gmail.com>
       copyright   Copyright (c) 2007-2009 AT&T; Knowledge Ventures
       license     http://www.opensource.org/licenses/cpl1.0.txt

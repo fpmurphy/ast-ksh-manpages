@@ -173,11 +173,9 @@ this implementation to compute primes.
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20150328001607/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `author`
 :   Doug McIlroy
-    &lt;[doug@research.bell-labs.com](https://web.archive.org/web/20150328001607/mailto:doug@research.bell-labs.com)&gt;
 
 `copyright`
 :   Copyright © 1995-2012 AT&T Intellectual Property

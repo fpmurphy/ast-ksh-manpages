@@ -68,7 +68,6 @@ scripts.
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20150527155230/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 1995-2005 Jean-loup Gailly and Mark Adler

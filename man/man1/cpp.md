@@ -923,7 +923,6 @@ the diagnostic.
 
 Glenn Fowler\
 AT&T Bell Laboratories\
-glenn.s.fowler@gmail.com
 
 ------------------------------------------------------------------------
 

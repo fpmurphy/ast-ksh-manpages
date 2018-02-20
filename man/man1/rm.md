@@ -71,11 +71,9 @@ immediately, and all other responses skip the current file.
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030250/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `author`
 :   David Korn
-    &lt;[dgkorn@gmail.com](https://web.archive.org/web/20141128030250/mailto:dgkorn@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 1992-2012 AT&T Intellectual Property

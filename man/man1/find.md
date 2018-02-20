@@ -462,11 +462,9 @@ group.
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20150527150844/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `author`
 :   David Korn
-    &lt;[dgkorn@gmail.com](https://web.archive.org/web/20150527150844/mailto:dgkorn@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 1989-2012 AT&T Intellectual Property

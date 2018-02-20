@@ -48,7 +48,6 @@ is in a form suitable for automatic translation by web sites like
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20150528150110/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 2000-2012 AT&T Intellectual Property

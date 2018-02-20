@@ -116,7 +116,6 @@ support multiple a.out formats may have multiple versions of the
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20150527153211/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 1998-2012 AT&T Intellectual Property

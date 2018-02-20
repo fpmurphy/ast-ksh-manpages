@@ -36,11 +36,9 @@ command for the `view` operation on the object `name` with mime type
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030246/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `author`
 :   David Korn
-    &lt;[dgkorn@gmail.com](https://web.archive.org/web/20141128030246/mailto:dgkorn@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 1992-2012 AT&T Intellectual Property

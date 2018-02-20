@@ -188,8 +188,6 @@ version
 :   iffe (AT&T Research) 2012-06-08
 
 author
-:   Glenn Fowler <mailto:glenn.s.fowler@gmail.com> \
-    Phong Vo <mailto:kpv@research.att.com>
 
 copyright
 :   Copyright © 1994-2012 AT&T Intellectual Property

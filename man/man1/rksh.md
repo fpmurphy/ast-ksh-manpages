@@ -316,7 +316,6 @@ command executed. Otherwise, it will be one of the following:
 
 `author`
 : David Korn
-    &lt;[dgkorn@gmail.com](https://web.archive.org/web/20141128030249/mailto:dgkorn@gmail.com)&gt;
 
 `copyright`
 : Copyright © 1982-2006 AT&T Corp.

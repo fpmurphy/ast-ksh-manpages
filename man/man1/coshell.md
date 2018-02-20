@@ -616,7 +616,6 @@ Default command concurrency level
 # AUTHOR
 
 Glenn Fowler\
-glenn.s.fowler@gmail.com\
 AT&T Bell Laboratories
 
 # SEE ALSO

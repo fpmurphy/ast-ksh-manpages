@@ -229,7 +229,6 @@ by query `A` and query `C` processes the records not selected by query
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20150717160617/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 2002-2012 AT&T Intellectual Property

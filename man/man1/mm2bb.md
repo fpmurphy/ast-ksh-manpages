@@ -35,7 +35,6 @@ list. The default `bb` markup style is \[`op`\]`data`\[/ `op`\].
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030246/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 1996-2012 AT&T Intellectual Property

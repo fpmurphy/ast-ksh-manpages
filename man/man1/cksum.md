@@ -191,7 +191,6 @@ can be one of:
         [``(author)]()
         : \
             Steve Reid
-            &lt;[steve@edmweb.com](https://web.archive.org/web/20141128030240/mailto:steve@edmweb.com)&gt;
 
     [`sha256|sha-256|SHA256|SHA-256`]()
     : \
@@ -290,11 +289,9 @@ can be one of:
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030240/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `author`
 :   David Korn
-    &lt;[dgkorn@gmail.com](https://web.archive.org/web/20141128030240/mailto:dgkorn@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 1992-2012 AT&T Intellectual Property

@@ -30,7 +30,6 @@ banner - print large banner
 
 `author`
 :   David Korn
-    &lt;[dgkorn@gmail.com](https://web.archive.org/web/20141128030239/mailto:dgkorn@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 1989-2012 AT&T Intellectual Property

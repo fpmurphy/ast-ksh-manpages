@@ -101,11 +101,9 @@ prune the search. The `tw` searches are relative to the `source` and
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030242/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `author`
 :   Lefty Koutsofios
-    &lt;[ek@research.att.com](https://web.archive.org/web/20141128030242/mailto:ek@research.att.com)&gt;
 
 `copyright`
 :   Copyright © 2001-2012 AT&T Intellectual Property

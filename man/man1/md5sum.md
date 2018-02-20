@@ -183,7 +183,6 @@ FIPS 180-1 SHA-1 secure hash algorithm 1.
 
 ``(author)
 : Steve Reid
-    &lt;[steve@edmweb.com](https://web.archive.org/web/20141110061257/mailto:steve@edmweb.com)&gt;
 
 [`sha256|sha-256|SHA256|SHA-256`]()
 
@@ -283,11 +282,9 @@ implementations.
 
 `author`
 : Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141110061257/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `author`
 : David Korn
-    &lt;[dgkorn@gmail.com](https://web.archive.org/web/20141110061257/mailto:dgkorn@gmail.com)&gt;
 
 `copyright`
 : Copyright © 1992-2010 AT&T Intellectual Property

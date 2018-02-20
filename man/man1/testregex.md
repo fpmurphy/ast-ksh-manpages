@@ -130,8 +130,6 @@ lang                : en_UK
         If a regex implementation misbehaves with memory then all bets are off.
 
     CONTRIBUTORS
-      Glenn Fowler    glenn.s.fowler@gmail.com        (ksh strmatch, regex extensions)
-      David Korn      dgkorn@gmail.com        (ksh glob matcher)
       Doug McIlroy    mcilroy@dartmouth.edu       (ast regex/testre in C++)
       Tom Lord        lord@regexps.com            (rx tests)
       Henry Spencer   henry@zoo.toronto.edu       (original public regex)

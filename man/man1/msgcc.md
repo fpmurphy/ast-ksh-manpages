@@ -77,7 +77,6 @@ the pre-existing `-o` file.
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030247/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 2000-2012 AT&T Intellectual Property

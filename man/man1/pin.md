@@ -238,11 +238,9 @@ The default value is `heuristic`.\
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030248/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `author`
 :   Adam Buchsbaum
-    &lt;[alb@adambuchsbaum.com](https://web.archive.org/web/20141128030248/mailto:alb@adambuchsbaum.com)&gt;
 
 `copyright`
 :   Copyright © 1998-2012 AT&T Intellectual Property

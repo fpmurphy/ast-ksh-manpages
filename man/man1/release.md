@@ -50,7 +50,6 @@ The entries for each `file` are annotated with the file directory name.
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030249/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 1999-2012 AT&T Intellectual Property

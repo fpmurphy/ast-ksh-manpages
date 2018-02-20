@@ -1,9 +1,3 @@
-<!--
-# Because Github doesn't properly support YAML headers
-# vim:nu et tw=130 ts=8 sts=4 sw=4 ff=unix fo-=l fo+=tcroq2 fdm=marker fmr=@{,@} spell spelllang=en_gb
-revision : Wed Nov 08, 2017 16:54:20
--->
-
 # NAME
 
 iffe - syntax of an iffe(1) statement.
@@ -467,8 +461,8 @@ version
 :   iffe (AT&T Research) 2012-06-08
 
 author
-:   Glenn Fowler <mailto:glenn.s.fowler@gmail.com> \
-    Phong Vo <mailto:kpv@research.att.com>
+:   Glenn Fowler
+:   Phong Vo
 
 copyright
 :   Copyright © 1994-2012 AT&T Intellectual Property

@@ -82,11 +82,9 @@ For backwards compatibility, `-``line\_count` is equivalent to `-l`
 
 `author`
 :   David Korn
-    &lt;[dgkorn@gmail.com](https://web.archive.org/web/20141128030250/mailto:dgkorn@gmail.com)&gt;
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030250/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 1995-2012 AT&T Intellectual Property

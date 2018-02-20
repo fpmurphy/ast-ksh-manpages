@@ -43,7 +43,6 @@ is `.exe` challenged, 1 if the current system is normal.
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030243/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 2002-2012 AT&T Intellectual Property

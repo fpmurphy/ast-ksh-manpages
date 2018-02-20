@@ -35,7 +35,6 @@ Most data corruption errors are still caught even with crc disabled.
 
 `author`
 :   Glenn Fowler
-    &lt;[glenn.s.fowler@gmail.com](https://web.archive.org/web/20141128030244/mailto:glenn.s.fowler@gmail.com)&gt;
 
 `copyright`
 :   Copyright © 1998-2012 AT&T Intellectual Property
